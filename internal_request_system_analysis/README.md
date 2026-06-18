@@ -29,7 +29,7 @@ This case study simulates an internal request management system where leadership
 
 The objective of this analysis was to determine whether increasing SLA breaches were driven by higher demand, stakeholder behavior, departmental strain, or structural workflow inefficiencies.
 
-This analysis emphasizes **structured investigation, business interpretation, and actionable insights** rather than purely focusing on query complexity.
+This analysis emphasizes **structured investigation, business interpretation, and actionable insights** rather than focusing on query complexity.
 
 ## Analytical Approach
 
